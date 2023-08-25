@@ -34,6 +34,12 @@ body{
     text-decoration: none;
     color: #fff;
 }
+.navbar .active{
+    color: rgb(16, 237, 16);
+}
+.navbar li a:hover{
+      color: rgb(16, 237, 16);
+}
 .stats{
     margin-top: 30px;
     margin-left: 100px;
